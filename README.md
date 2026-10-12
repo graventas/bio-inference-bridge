@@ -44,7 +44,7 @@ git init
 git add README.md main.py
 git commit -m "feat: initial commit with PoC architecture and simple encoder"
 git branch -M main
-git remote add origin https://github.com/USERNAME-KAMU/NAMA-REPO-KAMU.git
+git remote add origin https://github.com/graventas/bio-inference-bridge.git
 git push -u origin main
 
 ## 📄 License
